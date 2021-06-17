@@ -81,7 +81,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello world 
+                    Hello world <br>
+                    {{$nome}}
                 </div>
 
                 <div class="links">
