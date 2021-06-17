@@ -17,4 +17,8 @@ Route::get('/', function () {
     return view('home', ["nome"=>"Giulio"]);
 });
 
+// Route::get('/', function () {
+//     return view('test');
+// });
+
 

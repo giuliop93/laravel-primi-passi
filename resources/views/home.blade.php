@@ -86,6 +86,12 @@
                 </div>
 
                 <div class="links">
+                    <a href="test.blade.php">Test</a>
+                    <a href="foo.blade.php">Foo</a>
+                    <a href="bar.blade.php">Bar</a>                    
+                </div>
+
+                <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
                     <a href="https://laravel-news.com">News</a>
